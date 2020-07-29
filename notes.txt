@@ -1,0 +1,28 @@
+
+// --- Character object
+
+create an object for the character
+    properties:
+        inventory (empty array)
+        money (set it to 100)
+        function to display inventory
+
+// --- Store inventory
+
+create an array which contains 3 objects contains
+    name (name of item for sale)
+    value (how much it costs)
+    id(numerical store id)
+
+
+// --- Display Store Inventory function
+
+create a function to display store inventory
+
+// --- Display Store Inventory Function
+
+// --- Buy Function
+
+// ---Sell Function
+
+// --- If we have time ...renumbering item IDs!
